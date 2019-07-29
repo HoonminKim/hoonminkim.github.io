@@ -6,10 +6,10 @@
   * Logitech M705
 ## At Home
 * PC
-  * CPU Intel i5-4XXX (needs update)
+  * CPU Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
   * GPU NVidia GTX1060 3GB
   * RAM 8GB
-  * SSD Samsung 8XX Evo. 1TB (needs update)
+  * SSD Samsung 860 Evo. 1TB
 * Monitors
   * Dell ... Dual
 * Keyboard
