@@ -1,3 +1,5 @@
-# title
+# Hoonmin Kim Personal Page
 
-* element?
+* Profile
+
+* Background
